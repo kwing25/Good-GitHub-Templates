@@ -20,4 +20,4 @@ A Public Repo with Templates for everything GitHub including:
 ---
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
 
-Maintainer: [@kwing25](github.com/kwing25)
+Maintainer: [@kwing25](https://github.com/kwing25)
