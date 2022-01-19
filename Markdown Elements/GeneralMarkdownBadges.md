@@ -1,1 +1,5 @@
-[![](https://sourcerer.io/fame/$USER/$OWNER/$REPO/images/7)](https://sourcerer.io/fame/$USER/$OWNER/$REPO/links/7)
+# General Markdown Badges
+
+Misc Badges and Elements for markdown documents.
+
+- [Technologies Badges](#technologies-badges)
