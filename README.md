@@ -16,7 +16,9 @@ A Public Repo with Templates for everything GitHub including:
 ### Acknowledgments
 - [For the Badge](https://forthebadge.com/) - *Markdown Badges*
 - [Shields.io](https://shields.io/) - *Markdown Badges*
-
+- [Awesome Open Source](https://awesomeopensource.com/) - *Open Source Examples*
+- [Simple Icons](https://simpleicons.org/) - *Icons*
+- [Font Awesome](https://fontawesome.com/) - *Icons*
 ---
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
 
